@@ -1,0 +1,9 @@
+{
+  "name": "simple-quote",
+  "version": "1.0.0",
+  "description": "This is a simple node application which will show random quotes on a certain time interval",
+  "main": "index.js",
+  "repository": "https://github.com/tanjed/simple-quote",
+  "author": "Tanjed Atono",
+  "license": "MIT"
+}
